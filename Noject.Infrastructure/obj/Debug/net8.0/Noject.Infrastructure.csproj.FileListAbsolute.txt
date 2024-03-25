@@ -1,0 +1,11 @@
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Infrastructure\bin\Debug\net8.0\Noject.Infrastructure.deps.json
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Infrastructure\bin\Debug\net8.0\Noject.Infrastructure.dll
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Infrastructure\bin\Debug\net8.0\Noject.Infrastructure.pdb
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Infrastructure\obj\Debug\net8.0\Noject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Infrastructure\obj\Debug\net8.0\Noject.Infrastructure.AssemblyInfoInputs.cache
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Infrastructure\obj\Debug\net8.0\Noject.Infrastructure.AssemblyInfo.cs
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Infrastructure\obj\Debug\net8.0\Noject.Infrastructure.csproj.CoreCompileInputs.cache
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Infrastructure\obj\Debug\net8.0\Noject.Infrastructure.dll
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Infrastructure\obj\Debug\net8.0\refint\Noject.Infrastructure.dll
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Infrastructure\obj\Debug\net8.0\Noject.Infrastructure.pdb
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Infrastructure\obj\Debug\net8.0\ref\Noject.Infrastructure.dll

@@ -1,0 +1,15 @@
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\bin\Debug\net8.0\Noject.Application.deps.json
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\bin\Debug\net8.0\Noject.Application.dll
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\bin\Debug\net8.0\Noject.Application.pdb
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\bin\Debug\net8.0\Noject.Domain.dll
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\bin\Debug\net8.0\Noject.Domain.pdb
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\obj\Debug\net8.0\Noject.Application.csproj.AssemblyReference.cache
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\obj\Debug\net8.0\Noject.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\obj\Debug\net8.0\Noject.Application.AssemblyInfoInputs.cache
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\obj\Debug\net8.0\Noject.Application.AssemblyInfo.cs
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\obj\Debug\net8.0\Noject.Application.csproj.CoreCompileInputs.cache
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\obj\Debug\net8.0\Noject.A.CA70832C.Up2Date
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\obj\Debug\net8.0\Noject.Application.dll
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\obj\Debug\net8.0\refint\Noject.Application.dll
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\obj\Debug\net8.0\Noject.Application.pdb
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Application\obj\Debug\net8.0\ref\Noject.Application.dll

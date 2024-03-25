@@ -1,0 +1,11 @@
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Domain\bin\Debug\net8.0\Noject.Domain.deps.json
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Domain\bin\Debug\net8.0\Noject.Domain.dll
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Domain\bin\Debug\net8.0\Noject.Domain.pdb
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Domain\obj\Debug\net8.0\Noject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Domain\obj\Debug\net8.0\Noject.Domain.AssemblyInfoInputs.cache
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Domain\obj\Debug\net8.0\Noject.Domain.AssemblyInfo.cs
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Domain\obj\Debug\net8.0\Noject.Domain.csproj.CoreCompileInputs.cache
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Domain\obj\Debug\net8.0\Noject.Domain.dll
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Domain\obj\Debug\net8.0\refint\Noject.Domain.dll
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Domain\obj\Debug\net8.0\Noject.Domain.pdb
+D:\[Data]NhanNguyen\POC\Noject\Noject\Noject.Domain\obj\Debug\net8.0\ref\Noject.Domain.dll

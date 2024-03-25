@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB507712-B072-4F30-89E3-AAF5CE21781B}|Noject.Application\\Noject.Application.csproj|d:\\[data]nhannguyen\\poc\\noject2\\noject\\noject.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB507712-B072-4F30-89E3-AAF5CE21781B}|Noject.Application\\Noject.Application.csproj|solutionrelative:noject.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E785058-0339-453F-9FEE-1558D22AC536}|Noject.API\\Noject.API.csproj|d:\\[data]nhannguyen\\poc\\noject2\\noject\\noject.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E785058-0339-453F-9FEE-1558D22AC536}|Noject.API\\Noject.API.csproj|solutionrelative:noject.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB507712-B072-4F30-89E3-AAF5CE21781B}|Noject.Application\\Noject.Application.csproj|d:\\[data]nhannguyen\\poc\\noject2\\noject\\noject.application\\weatherforecast\\handler\\weatherforecasthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB507712-B072-4F30-89E3-AAF5CE21781B}|Noject.Application\\Noject.Application.csproj|solutionrelative:noject.application\\weatherforecast\\handler\\weatherforecasthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB507712-B072-4F30-89E3-AAF5CE21781B}|Noject.Application\\Noject.Application.csproj|d:\\[data]nhannguyen\\poc\\noject2\\noject\\noject.application\\weatherforecast\\queries\\getweatherforecastquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB507712-B072-4F30-89E3-AAF5CE21781B}|Noject.Application\\Noject.Application.csproj|solutionrelative:noject.application\\weatherforecast\\queries\\getweatherforecastquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E785058-0339-453F-9FEE-1558D22AC536}|Noject.API\\Noject.API.csproj|d:\\[data]nhannguyen\\poc\\noject2\\noject\\noject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E785058-0339-453F-9FEE-1558D22AC536}|Noject.API\\Noject.API.csproj|solutionrelative:noject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB84AA-6E2E-4C78-85C3-A690FD312084}|Noject.Domain\\Noject.Domain.csproj|d:\\[data]nhannguyen\\poc\\noject2\\noject\\noject.domain\\entities\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB84AA-6E2E-4C78-85C3-A690FD312084}|Noject.Domain\\Noject.Domain.csproj|solutionrelative:noject.domain\\entities\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB84AA-6E2E-4C78-85C3-A690FD312084}|Noject.Domain\\Noject.Domain.csproj|d:\\[data]nhannguyen\\poc\\noject2\\noject\\noject.domain\\noject.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82BB84AA-6E2E-4C78-85C3-A690FD312084}|Noject.Domain\\Noject.Domain.csproj|solutionrelative:noject.domain\\noject.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB507712-B072-4F30-89E3-AAF5CE21781B}|Noject.Application\\Noject.Application.csproj|d:\\[data]nhannguyen\\poc\\noject2\\noject\\noject.application\\noject.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB507712-B072-4F30-89E3-AAF5CE21781B}|Noject.Application\\Noject.Application.csproj|solutionrelative:noject.application\\noject.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2CFD1-D861-475F-9C23-5F7470DD9E8E}|Noject.Infrastructure\\Noject.Infrastructure.csproj|d:\\[data]nhannguyen\\poc\\noject2\\noject\\noject.infrastructure\\noject.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0D2CFD1-D861-475F-9C23-5F7470DD9E8E}|Noject.Infrastructure\\Noject.Infrastructure.csproj|solutionrelative:noject.infrastructure\\noject.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E785058-0339-453F-9FEE-1558D22AC536}|Noject.API\\Noject.API.csproj|d:\\[data]nhannguyen\\poc\\noject2\\noject\\noject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E785058-0339-453F-9FEE-1558D22AC536}|Noject.API\\Noject.API.csproj|solutionrelative:noject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E785058-0339-453F-9FEE-1558D22AC536}|Noject.API\\Noject.API.csproj|d:\\[data]nhannguyen\\poc\\noject2\\noject\\noject.api\\noject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E785058-0339-453F-9FEE-1558D22AC536}|Noject.API\\Noject.API.csproj|solutionrelative:noject.api\\noject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForeCastHandler.cs",
+              "DocumentMoniker": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.Application\\WeatherForeCast\\Handler\\WeatherForeCastHandler.cs",
+              "RelativeDocumentMoniker": "Noject.Application\\WeatherForeCast\\Handler\\WeatherForeCastHandler.cs",
+              "ToolTip": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.Application\\WeatherForeCast\\Handler\\WeatherForeCastHandler.cs",
+              "RelativeToolTip": "Noject.Application\\WeatherForeCast\\Handler\\WeatherForeCastHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:34:39.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetWeatherForeCastQuery.cs",
+              "DocumentMoniker": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.Application\\WeatherForeCast\\Queries\\GetWeatherForeCastQuery.cs",
+              "RelativeDocumentMoniker": "Noject.Application\\WeatherForeCast\\Queries\\GetWeatherForeCastQuery.cs",
+              "ToolTip": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.Application\\WeatherForeCast\\Queries\\GetWeatherForeCastQuery.cs",
+              "RelativeToolTip": "Noject.Application\\WeatherForeCast\\Queries\\GetWeatherForeCastQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:33:11.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Noject.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.Infrastructure\\Noject.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Noject.Infrastructure\\Noject.Infrastructure.csproj",
+              "ToolTip": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.Infrastructure\\Noject.Infrastructure.csproj",
+              "RelativeToolTip": "Noject.Infrastructure\\Noject.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T08:19:25.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Noject.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Noject.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:13:46.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Noject.API\\appsettings.json",
+              "ToolTip": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.API\\appsettings.json",
+              "RelativeToolTip": "Noject.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T08:04:07.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.API\\Program.cs",
+              "RelativeDocumentMoniker": "Noject.API\\Program.cs",
+              "ToolTip": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.API\\Program.cs",
+              "RelativeToolTip": "Noject.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:04:05.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.Domain\\Entities\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Noject.Domain\\Entities\\WeatherForecast.cs",
+              "ToolTip": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.Domain\\Entities\\WeatherForecast.cs",
+              "RelativeToolTip": "Noject.Domain\\Entities\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:10:02.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Noject.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Noject.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:50:56.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Noject.API.csproj",
+              "DocumentMoniker": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.API\\Noject.API.csproj",
+              "RelativeDocumentMoniker": "Noject.API\\Noject.API.csproj",
+              "ToolTip": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.API\\Noject.API.csproj",
+              "RelativeToolTip": "Noject.API\\Noject.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T08:02:26.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Noject.Application.csproj",
+              "DocumentMoniker": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.Application\\Noject.Application.csproj",
+              "RelativeDocumentMoniker": "Noject.Application\\Noject.Application.csproj",
+              "ToolTip": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.Application\\Noject.Application.csproj",
+              "RelativeToolTip": "Noject.Application\\Noject.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T08:02:24.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Noject.Domain.csproj",
+              "DocumentMoniker": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.Domain\\Noject.Domain.csproj",
+              "RelativeDocumentMoniker": "Noject.Domain\\Noject.Domain.csproj",
+              "ToolTip": "D:\\[Data]NhanNguyen\\POC\\Noject2\\noject\\Noject.Domain\\Noject.Domain.csproj",
+              "RelativeToolTip": "Noject.Domain\\Noject.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T08:03:24.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
