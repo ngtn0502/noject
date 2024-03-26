@@ -1,6 +1,6 @@
 namespace Noject
 {
-    public class WeatherForecast
+    public class Product
     {
         public DateOnly Date { get; set; }
 

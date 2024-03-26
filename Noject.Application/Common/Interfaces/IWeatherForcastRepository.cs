@@ -4,6 +4,6 @@ namespace Noject
 {
 	public interface IWeatherForcastRepository
 	{
-		Task<WeatherForecast> GetAllASync();
+		Task<Product> GetAllASync();
 	}
 }

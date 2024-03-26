@@ -7,7 +7,7 @@ using MediatR;
 
 namespace Noject.Application.WeatherForeCast.Queries
 {
-    public class GetWeatherForeCastQuery : IRequest<IEnumerable<WeatherForecast>>
+    public class ProductQuery : IRequest<IEnumerable<Product>>
     {
     }
 }

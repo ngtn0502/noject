@@ -1,4 +1,7 @@
+using FluentValidation.AspNetCore;
+using FluentValidation;
 using Noject.Application;
+using Noject.Application.Common;
 
 namespace Noject
 {
@@ -15,6 +18,8 @@ namespace Noject
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddApplication();
+            builder.Services.AddFluentValidation();
+            builder.Services.AddValidatorsFromAssemblyContaining<IAssemblyMarker>();
 
             var app = builder.Build();
 
